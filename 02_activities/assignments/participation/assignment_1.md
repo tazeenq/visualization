@@ -2,6 +2,8 @@
 
 ## Assignment 1: Participation (Ongoing)
 
+## Please see the files: 'Week_1_code.ipynb' and 'Week_2_code.ipynb' in the Participation folder for functioning code and notes/activities.
+
 ### Requirements:
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
