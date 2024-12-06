@@ -9,7 +9,7 @@ I used Python with Pandas for data handling and Matplotlib for creating the visu
 My audience includes educators, policymakers, and common readers who are interested in analyzing retail sales data trends. They may not all have technical expertise, so the visualizations are designed to be accessible and clear to a broad audience​.
 
 **What information or message are you trying to convey with your visualization?**
-The goal is to highlight trends, outliers, and relationships in the retail sales dataset, such as sales performance over time, category contributions, and regional patterns. Each visualization is tailored to answer a specific question about the dataset​.
+The goal is to highlight trends, outliers, and relationships in the retail sales dataset, such as sales performance over time and category contributions. Each visualization is tailored to answer a specific question about the dataset​.
 
 **What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?**
 1. Substantive: My visualizations represent the data accurately without misleading the audience. I tried to main the integrity of data while preprocessing it.
